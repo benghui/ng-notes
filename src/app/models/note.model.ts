@@ -1,4 +1,4 @@
-export class notes {
+export class Note {
     title: string;
     content: string;
 
